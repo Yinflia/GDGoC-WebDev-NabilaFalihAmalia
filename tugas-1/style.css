@@ -21,7 +21,7 @@ body {
 
 /* Class selector (.) diawali dengan titik, menargetkan elemen dengan atribut class="site-header" */
 .site-header {
-    background: #f44242;
+    background: #11d7f1;
     color: rgb(255, 255, 255);
     /* Teks dalam header berwarna putih */
     /* Jarak ruang di dalam batas elemen: 1.5rem bagian atas-bawah, 1rem kiri-kanan */
